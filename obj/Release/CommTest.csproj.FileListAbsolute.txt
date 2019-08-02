@@ -1,0 +1,9 @@
+F:\RockSea\C#\CommTest\bin\Release\CommTest.exe
+F:\RockSea\C#\CommTest\bin\Release\CommTest.pdb
+F:\RockSea\C#\CommTest\obj\Release\CommTest.csprojAssemblyReference.cache
+F:\RockSea\C#\CommTest\obj\Release\CommTest.MainForm.resources
+F:\RockSea\C#\CommTest\obj\Release\CommTest.Properties.Resources.resources
+F:\RockSea\C#\CommTest\obj\Release\CommTest.csproj.GenerateResource.cache
+F:\RockSea\C#\CommTest\obj\Release\CommTest.csproj.CoreCompileInputs.cache
+F:\RockSea\C#\CommTest\obj\Release\CommTest.exe
+F:\RockSea\C#\CommTest\obj\Release\CommTest.pdb
